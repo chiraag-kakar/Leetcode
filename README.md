@@ -1,5 +1,3 @@
-# LEETCODE
-
 |  **Problem**	| **C++** 	| **Java** 	| **Python** 	| **Explanation** 	|
 |:-:	|-	|-	|-	|-	|
 |  	|  	|  	|  	|  	|
